@@ -1,6 +1,6 @@
 # 8queen
 Backtrack: 8 queen
 
-Enviroment
-OS: DOS
+Enviroment:<br>
+OS: DOS<br>
 Compiler: Borland Pascal (BP) or Turbo Pascal (TP)
